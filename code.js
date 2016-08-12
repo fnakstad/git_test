@@ -1,4 +1,4 @@
-console.log("Hello Tomomi");
+console.log("Hello Tomomi. I love you!");
 var x = 3;
 var y = x + 5;
-console.log(y);
+console.log(x + y);
